@@ -141,8 +141,8 @@
                     android:backgroundTint="@color/naranjaoscuro"
                     app:cornerRadius="3dp"
                     app:icon="@drawable/sendicon"
-                    app:iconGravity="textStart"
-                    app:iconTint="@color/gris2" />
+                    app:iconTint="@color/gris2"
+                    tools:ignore="SpeakableTextPresentCheck" />
 
             </LinearLayout>
 
@@ -245,7 +245,8 @@
                 android:backgroundTint="@color/naranjaoscuro"
                 app:cornerRadius="3dp"
                 app:icon="@drawable/iconcall"
-                app:iconTint="@color/gris2" />
+                app:iconTint="@color/gris2"
+                tools:ignore="SpeakableTextPresentCheck" />
         </LinearLayout>
 
     </LinearLayout>
