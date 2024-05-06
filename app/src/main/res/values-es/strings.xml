@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="username">Nombre usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="incorrect_pass_or_username">Incorrecta contraseña o nombre de usuario</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="crunchyroll_es_una_plataforma_de_streaming_de_contenido_de_anime">Crunchyroll es una plataforma de streaming de contenido de anime</string>
+    <string name="crunchyroll_es_una_de_las_plataformas_de_streaming_m_s_populares_en_el_mundo_con_m_s_de_120_millones_de_usuarios_registrados_y_10_millones_de_suscriptores_pagos_la_plataforma_es_disponible_en_m_s_de_200_pa_ses_y_ofrece_contenido_en_varios_idiomas_incluyendo_ingl_s_espa_ol_franc_s_alem_n_italiano_portugu_s_coreano_chino_simplificado_y_japon_s">Crunchyroll es una de las plataformas de streaming más populares en el mundo, con más de 120 millones de usuarios registrados y 10 millones de suscriptores pagos. La plataforma es disponible en más de 200 países y ofrece contenido en varios idiomas, incluyendo inglés, español, francés, alemán, italiano, portugués, coreano, chino simplificado y japonés.</string>
+    <string name="la_plataforma_se_especializa_en_la_transmisi_n_de_contenido_de_anime_dramas_coreanos_taiwaneses_chinos_y_japoneses_y_ha_ganado_una_gran_popularidad_entre_los_fan_ticos_de_este_g_nero">La plataforma se especializa en la transmisión de contenido de anime, dramas coreanos, taiwaneses, chinos y japoneses, y ha ganado una gran popularidad entre los fanáticos de este género.</string>
+    <string name="que_es_crunchyroll">Que es crunchyroll?\n</string>
+    <string name="volver">Volver</string>
+    <string name="salir">Salir</string>
+    <string name="acerca">Acerca</string>
+    <string name="contactos_programador">Contactos del programador</string>
+    <string name="gmail_fernanmoral12_gmail_com_ncelular_2954556623">Gmail ---> fernanmoral12@gmail.com\nNumero de celular ---> 2954556623</string>
+    <string name="ingrese_el_asunto">Ingrese el asunto...</string>
+    <string name="realizar_llamada_telefonica">Realizar llamada telefonica</string>
+    <string name="redactar_un_mensaje_al_gmail">Enviar correo electrónico:</string>
+    <string name="ingrese_el_mensaje">Ingrese el mensaje...</string>
+</resources>
